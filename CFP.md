@@ -41,9 +41,9 @@ MobileHCI以与人类移动体验相关的创新，见解或分析的形式寻�
 
 
 
-### **会议主席**
+### **论文评审**
 
-*   [丹麦哥本哈根大学](http://www.joannabergstrom.fi), University of Copenhagen, Denmark
+*   [丹麦哥本哈根大学](http://www.joannabergstrom.fi)
 *   [Mike Y. Chen](https://mikechen.com), 台湾国立台湾大学
 *   [Mark Dunlop](https://personal.cis.strath.ac.uk/mark.dunlop/),英国斯特拉斯克莱德大学
 
